@@ -8,6 +8,9 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+$type-size-5: 0.9em;       // 14–15 px paragraphs
+$type-size-4: 1.125em;     // h4 (~18 px) if you want
+
 @import
     "vendor/breakpoint/breakpoint",
 
