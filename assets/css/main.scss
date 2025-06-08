@@ -9,12 +9,6 @@
  */
 
 /* ↓ your custom scale */
-$type-size-1 : 1.3em;     // h1  (was 2.441em  ≈ 39 px → now ≈ 32 px)
-$type-size-2 : 1.1em;   // h2  (was 1.953em ≈ 31 px → now ≈ 26 px)
-$type-size-3 : 0.9em;   // h3  (was 1.563em ≈ 25 px → now ≈ 21 px)
-$type-size-4 : 0.7em;  // h4  (was 1.25em  ≈ 20 px → now ≈ 17 px)
-$type-size-5 : 0.5em;   // body (was 1em     ≈ 16 px → now ≈ 14 px)
-
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -49,3 +43,6 @@ $type-size-5 : 0.5em;   // body (was 1em     ≈ 16 px → now ≈ 14 px)
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+
+body { font-size: 0.8em; }  
