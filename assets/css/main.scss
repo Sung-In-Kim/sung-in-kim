@@ -8,11 +8,9 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
----
----
 /* ↓ your custom scale */
-$type-size-5: 0.9em;   // shrink body copy to ~14 px
-$type-size-4: 1.125em; // keep headings proportionate
+$type-size-5: 0.7em;   // shrink body copy to ~14 px
+$type-size-4: 1em; // keep headings proportionate
 
 @import
     "vendor/breakpoint/breakpoint",
