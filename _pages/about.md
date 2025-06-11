@@ -7,7 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
+<style>
+/* INLINE ABSTRACT TOGGLE */
+details.inline-abs{display:inline-block;margin-left:.6rem;}
+details.inline-abs>summary{
+  display:inline;
+  cursor:pointer;
+  list-style:none;
+  padding-left:0;
+}
+details.inline-abs>summary::-webkit-details-marker{display:none;} /* hide default arrow */
+details.inline-abs>summary::before{content:"▸ ";transition:.2s;}
+details.inline-abs[open]>summary::before{transform:rotate(90deg);}
+</style>
 
 Welcome! I am a Ph.D. candidate in the Department of Government at Harvard University. I study comparative political economy and political behavior. I am particularly interested in the political consequences of economic shocks and structural economic change in advanced democracies, including deindustrialization, green transitions, and recessions. 
 
