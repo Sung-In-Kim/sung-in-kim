@@ -18,7 +18,7 @@ You can find my CV [here](https://sung-in-kim.github.io/files/CV_SungInKim.pdf).
 
 ### Publications
 -----
-1. [Fairness and Support for Populist Parties](https://journals.sagepub.com/doi/abs/10.1177/00104140231193013) (2023), _Comparative Political Studies_, with Peter Hall <details>
+1. [Fairness and Support for Populist Parties](https://journals.sagepub.com/doi/abs/10.1177/00104140231193013) (2023), _Comparative Political Studies_, with Peter Hall <Abstract>
 On the premise that issues of fairness are important to voting behavior but often unrecognized, we explore how feelings of unfairness increase support for populist parties. We distinguish personal unfairness, the view that one’s own economic situation is unfair, from social unfairness, the view that the economic situation of others in society is unfair. Based on findings in psychology, we argue that uncertainties associated with the transition to a globalized knowledge economy heighten people’s feelings of personal unfairness and find empirical support for that contention. We develop arguments about why feelings of personal unfairness should increase support for the populist right and feelings about social unfairness should increase support for the populist left and find empirical support for them. Our results contribute to explanations for why people vote for the populist right rather than the left and underline the roles that uncertainty and issues of fairness play in electoral politics.
 </details>
 
