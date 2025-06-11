@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Government at Harvard University. I study comparative political economy and political behavior. I am particularly interested in the political consequences of economic shocks and structural economic change in advanced democracies, including deindustrialization, green transitions, and recessions. 
+Welcome! I am a Ph.D. candidate in the Department of Government at Harvard University. I study comparative political economy and political behavior. I am particularly interested in the political consequences of structural economic changes and economic shocks in advanced democracies, including deindustrialization, green transitions, and recessions. 
 
 During economic transitions, voters sometimes shift to the left and demand compensation from the state, while at other times they move to the right and support candidates who offer exclusionary, protectionist policies. My dissertation asks why these divergent reactions occur and highlights the importance of political parties and policy in explaining the variation in voters’ responses. 
 
